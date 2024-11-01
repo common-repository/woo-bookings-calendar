@@ -1,0 +1,35 @@
+.wbc-search {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.wbc-search .search-field {
+    width: 100%;
+}
+
+.wbc-search input[type="search"]::-webkit-search-cancel-button {
+    -webkit-appearance: searchfield-cancel-button;
+}
+
+.wbc-stretch .fc-month-view .fc-content-skeleton table tbody tr td a {
+    height: 100% !important;
+}
+
+.wbc-stretch .fc-month-view .fc-event-container {
+    height: 55px !important;
+    padding-bottom: 2px !important;
+}
+
+#wbc_qv_modal {
+    max-width: 700px;
+    margin-top: 50px;
+    z-index: 9999999;
+}
+
+.wbc_modal .modal-dialog {
+    width: 80%;
+}
+
+.fc-toolbar .fc-state-active, .fc-toolbar .ui-state-active {
+    z-index: 0;
+}

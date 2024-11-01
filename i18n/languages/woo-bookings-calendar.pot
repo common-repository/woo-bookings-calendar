@@ -1,0 +1,203 @@
+# Copyright (C) 2023 Moises Heberle
+# This file is distributed under the same license as the WooCommerce Bookings Calendar plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Bookings Calendar 1.0.36\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-bookings-calendar\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-01-11T10:38:09-03:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: woo-bookings-calendar\n"
+
+#. Plugin Name of the plugin
+#: wbclite.php:45
+msgid "WooCommerce Bookings Calendar"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/woo-bookings-calendar"
+msgstr ""
+
+#. Description of the plugin
+msgid "Availability Calendar Shortcode for WooCommerce Bookings Extension"
+msgstr ""
+
+#. Author of the plugin
+msgid "Moises Heberle"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://pluggablesoft.com/contact/"
+msgstr ""
+
+#: includes/WBC_Event_Builder.php:335
+msgid "BOOKED"
+msgstr ""
+
+#: includes/WBC_Settings.php:10
+msgid "Display loading while updating calendar events"
+msgstr ""
+
+#: includes/WBC_Settings.php:11
+#: includes/WBC_Settings.php:17
+#: includes/WBC_Settings.php:23
+#: includes/WBC_Settings.php:29
+#: includes/WBC_Settings.php:35
+#: includes/WBC_Settings.php:41
+#: includes/WBC_Settings.php:48
+#: includes/WBC_Settings.php:55
+#: includes/WBC_Settings.php:62
+#: includes/WBC_Settings.php:73
+#: includes/WBC_Settings.php:83
+#: includes/WBC_Settings.php:90
+#: includes/WBC_Settings.php:97
+msgid "General"
+msgstr ""
+
+#: includes/WBC_Settings.php:16
+msgid "Enable event filter box in calendar"
+msgstr ""
+
+#: includes/WBC_Settings.php:22
+msgid "Customize bookable product colors"
+msgstr ""
+
+#: includes/WBC_Settings.php:28
+msgid "Attach calendar in single booking page"
+msgstr ""
+
+#: includes/WBC_Settings.php:34
+msgid "Disable back button to the past time"
+msgstr ""
+
+#: includes/WBC_Settings.php:40
+msgid "Calendar view"
+msgstr ""
+
+#: includes/WBC_Settings.php:47
+msgid "Bookable color"
+msgstr ""
+
+#: includes/WBC_Settings.php:54
+msgid "Not bookable color"
+msgstr ""
+
+#: includes/WBC_Settings.php:61
+msgid "When item not bookable"
+msgstr ""
+
+#: includes/WBC_Settings.php:66
+msgid "Display as read-only in calendar"
+msgstr ""
+
+#: includes/WBC_Settings.php:67
+msgid "Hide item from calendar"
+msgstr ""
+
+#: includes/WBC_Settings.php:68
+msgid "Display as bookable item"
+msgstr ""
+
+#: includes/WBC_Settings.php:72
+msgid "Time format"
+msgstr ""
+
+#: includes/WBC_Settings.php:82
+msgid "Calendar language"
+msgstr ""
+
+#: includes/WBC_Settings.php:89
+msgid "Start day of week"
+msgstr ""
+
+#: includes/WBC_Settings.php:96
+msgid "Fixed calendar start date"
+msgstr ""
+
+#: includes/WBC_Settings.php:107
+msgid "Day"
+msgstr ""
+
+#: includes/WBC_Settings.php:108
+msgid "Week"
+msgstr ""
+
+#: includes/WBC_Settings.php:109
+msgid "Month"
+msgstr ""
+
+#: includes/WBC_Settings.php:110
+msgid "Day (list)"
+msgstr ""
+
+#: includes/WBC_Settings.php:111
+msgid "Week (list)"
+msgstr ""
+
+#: includes/WBC_Settings.php:112
+msgid "Month (list)"
+msgstr ""
+
+#: includes/WBC_Settings.php:119
+msgid "Sunday"
+msgstr ""
+
+#: includes/WBC_Settings.php:120
+msgid "Monday"
+msgstr ""
+
+#: includes/WBC_Settings.php:121
+msgid "Tuesday"
+msgstr ""
+
+#: includes/WBC_Settings.php:122
+msgid "Wednesday"
+msgstr ""
+
+#: includes/WBC_Settings.php:123
+msgid "Thursday"
+msgstr ""
+
+#: includes/WBC_Settings.php:124
+msgid "Friday"
+msgstr ""
+
+#: includes/WBC_Settings.php:125
+msgid "Saturday"
+msgstr ""
+
+#: wbclite.php:180
+#: wbclite.php:183
+msgid "day"
+msgstr ""
+
+#: wbclite.php:181
+#: wbclite.php:184
+msgid "week"
+msgstr ""
+
+#: wbclite.php:182
+#: wbclite.php:185
+msgid "month"
+msgstr ""
+
+#: wbclite.php:183
+msgid "list day"
+msgstr ""
+
+#: wbclite.php:184
+msgid "list week"
+msgstr ""
+
+#: wbclite.php:185
+msgid "list month"
+msgstr ""
+
+#: wbclite.php:239
+msgid "Search events ..."
+msgstr ""
